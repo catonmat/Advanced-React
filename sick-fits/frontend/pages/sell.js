@@ -1,9 +1,5 @@
-import React from 'react'
+import React from 'react';
 
 export default function SellPage() {
-  return (
-    <div>
-      SellPage
-    </div>
-  )
+  return <div>SellPage</div>;
 }
